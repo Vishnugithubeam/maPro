@@ -1,0 +1,21 @@
+ID,externalID,name,productOwner,delegate,testCoordinator,testLead,isActive,businessArea,createdAt,createdBy,modifiedAt,modifiedBy
+1,EXT101,Hyperspace Optimizer,Alice Smith,Bob Brown,Charlie Davis,Eve Evans,1,Digital Transformation,2023-01-01,Alice Smith,2023-01-05,Alice Smith
+2,EXT102,Change Management,Bob Brown,Charlie Davis,Dana White,Frank Garcia,1,IT Governance,2023-02-15,Bob Brown,2023-02-20,Bob Brown
+3,EXT103,Test Management,Charlie Davis,Dana White,Eve Evans,Grace Hill,0,Quality Assurance,2023-03-20,Charlie Davis,2023-03-25,Charlie Davis
+4,EXT104,Billing,Dana White,Eve Evans,Frank Garcia,Heather Lopez,1,Financial Systems,2023-04-10,Dana White,2023-04-15,Dana White
+5,EXT105,Credit Card Handling,Eve Evans,Frank Garcia,Grace Hill,Ian Martinez,1,Payment Solutions,2023-05-05,Eve Evans,2023-05-10,Eve Evans
+6,EXT106,Calendar App,Frank Garcia,Grace Hill,Heather Lopez,Jack Nelson,0,Collaborative Tech,2023-06-20,Frank Garcia,2023-06-25,Frank Garcia
+7,EXT107,IT Systems News,Grace Hill,Heather Lopez,Ian Martinez,Karen Allen,1,Communications,2023-07-01,Grace Hill,2023-07-05,Grace Hill
+8,EXT108,Email,Heather Lopez,Ian Martinez,Jack Nelson,Luke Robinson,0,Email Services,2023-08-15,Heather Lopez,2023-08-20,Heather Lopez
+9,EXT109,Help Desk,Ian Martinez,Jack Nelson,Karen Allen,Mike Baker,1,Technical Support,2023-09-10,Ian Martinez,2023-09-15,Ian Martinez
+10,EXT110,Network,Jack Nelson,Karen Allen,Luke Robinson,Nancy Cruz,1,Network Infrastructure,2023-10-05,Jack Nelson,2023-10-10,Jack Nelson
+11,EXT111,Intranet Manager,Nancy Cruz,Mike Baker,Luke Robinson,Olivia Thompson,1,Network Services,2023-10-20,Nancy Cruz,2023-10-25,Nancy Cruz
+12,EXT112,User Accounts,Olivia Thompson,Luke Robinson,Mike Baker,Patricia Johnson,1,User Management,2023-11-01,Olivia Thompson,2023-11-05,Olivia Thompson
+13,EXT113,Data Analytics,Patricia Johnson,Mike Baker,Olivia Thompson,Quinlin Watson,0,Analytics Solutions,2023-11-15,Patricia Johnson,2023-11-20,Patricia Johnson
+14,EXT114,Virtualization,Quinlin Watson,Olivia Thompson,Patricia Johnson,Rachel Adams,1,Virtual Infrastructure,2023-12-01,Quinlin Watson,2023-12-05,Quinlin Watson
+15,EXT115,System Monitoring,Rachel Adams,Patricia Johnson,Quinlin Watson,Steven Clark,1,SystemOps,2023-12-15,Rachel Adams,2023-12-20,Rachel Adams
+16,EXT116,Backup Solutions,Steven Clark,Quinlin Watson,Rachel Adams,Tania Brown,0,Data Protection,2024-01-01,Steven Clark,2024-01-05,Steven Clark
+17,EXT117,Security Manager,Tania Brown,Rachel Adams,Steven Clark,Uma Johnson,1,Security,2024-01-15,Tania Brown,2024-01-20,Tania Brown
+18,EXT118,Disaster Recovery,Uma Johnson,Steven Clark,Tania Brown,Victor Lopez,0,Business Continuity,2024-02-01,Uma Johnson,2024-02-05,Uma Johnson
+19,EXT119,Asset Management,Victor Lopez,Tania Brown,Uma Johnson,William Davis,1,Hardware Assets,2024-02-15,Victor Lopez,2024-02-20,Victor Lopez
+20,EXT120,Collaboration Tools,William Davis,Uma Johnson,Victor Lopez,Xena Thompson,1,Communications,2024-03
